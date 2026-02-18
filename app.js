@@ -1,4 +1,4 @@
-const API_KEY = "79afc90ceed10700e0947d60a222dfc4";
+const API_KEY = "";
 
 const weatherInfo = document.getElementById('weatherInfo');
 const errorMessage = document.getElementById('errorMessage');
